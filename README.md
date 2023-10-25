@@ -6,8 +6,7 @@ For the formulation of the Effective Field Theory of Interacting Dark Energy, se
 
 For the effects of gravitational redshift see [arXiv:1309.1321](<https://arxiv.org/abs/1309.1321>), [arXiv:1304.4124](<https://arxiv.org/abs/1304.4124>) and [arXiv:1206.5809](<https://arxiv.org/abs/1206.5809>).
 
-Developed by [Michele Mancarella](<https://github.com/Mik3M4n>), [Sveva Castello](<https://github.com/
-SvevaCastello>), [Nastassia Grimm](<https://github.com/NastassiaG>), [Daniel Sobral Blanco](<https://github.com/dasobral>).
+Developed by [Michele Mancarella](<https://github.com/Mik3M4n>), [Sveva Castello](<https://github.com/SvevaCastello>), [Nastassia Grimm](<https://github.com/NastassiaG>), [Daniel Sobral Blanco](<https://github.com/dasobral>).
 
 
 
