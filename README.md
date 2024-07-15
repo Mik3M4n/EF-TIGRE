@@ -6,6 +6,8 @@ For the formulation of the Effective Field Theory of Interacting Dark Energy, se
 
 For the effects of gravitational redshift see [arXiv:1309.1321](<https://arxiv.org/abs/1309.1321>), [arXiv:1304.4124](<https://arxiv.org/abs/1304.4124>) and [arXiv:1206.5809](<https://arxiv.org/abs/1206.5809>).
 
+For a study of the constraining power of gravitational redshift on the Effective Field Theory of Interacting Dark Energy, see [arXiv:2311.14425](<https://arxiv.org/abs/2311.14425>) for which this package has been developed.
+
 Developed by [Michele Mancarella](<https://github.com/Mik3M4n>), [Sveva Castello](<https://github.com/SvevaCastello>), [Nastassia Grimm](<https://github.com/NastassiaG>), [Daniel Sobral Blanco](<https://github.com/dasobral>).
 
 
@@ -34,7 +36,7 @@ likelihood_tools
 
 ## Usage
 
-For a more detailed description see the example in  ```notebooks/examplt.ipynb```. 
+For a more detailed description see the example in  ```notebooks/example.ipynb```. 
 
 Quickstart: background evolution
 
@@ -114,4 +116,16 @@ mySignal = Signal(	  BG,
 
 ## Citation
 
-If using this software, please cite this repository and the paper [arXiv:](<https://arxiv.org/abs/>) 
+If using this software, please cite this repository and the paper ''Gravitational Redshift Constraints on the Effective Theory of Interacting Dark Energy'', [arXiv:2311.14425](<https://arxiv.org/abs/2311.14425>). Bibtex:
+
+```
+@article{Castello:2023zjr,
+    author = "Castello, Sveva and Mancarella, Michele and Grimm, Nastassia and Blanco, Daniel Sobral and Tutusaus, Isaac and Bonvin, Camille",
+    title = "{Gravitational Redshift Constraints on the Effective Theory of Interacting Dark Energy}",
+    eprint = "2311.14425",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    month = "11",
+    year = "2023"
+}
+```
